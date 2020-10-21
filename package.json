@@ -1,5 +1,4 @@
 {
-  "private": "false",
   "name": "@jrmy/vuejs-textfieldcomponent",
   "version": "1.0.0",
   "description": "Reusable form's input with customable attributes and validator",
